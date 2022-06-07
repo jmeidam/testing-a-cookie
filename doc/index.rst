@@ -9,7 +9,7 @@ ADB Connectors documentation
 
 Important links
 ---------------
-- Source code repo: https://github.com/jumbo-supermarkten/testing-a-cookie
+- Source code repo: https://github.com/jumbo-supermarkten/testing_a_cookie
 
 Indices and tables
 ------------------

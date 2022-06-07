@@ -14,7 +14,7 @@
 #
 import os
 import sys
-from testing-a-cookie import __version__, __title__, __copyright__, __author__, __description__
+from testing_a_cookie import __version__, __title__, __copyright__, __author__, __description__
 
 sys.path.insert(0, os.path.abspath('..'))
 

@@ -3,5 +3,5 @@
 Models module
 =============
 
-.. automodule:: testing-a-cookie.models
+.. automodule:: testing_a_cookie.models
    :members:

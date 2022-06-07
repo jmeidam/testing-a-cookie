@@ -38,7 +38,7 @@ def get_install_requirements(req_file: str) -> list:
 
 
 HERE = os.path.abspath(os.path.dirname(__file__))
-META_PATH = os.path.join('testing-a-cookie', '__init__.py')
+META_PATH = os.path.join('testing_a_cookie', '__init__.py')
 REQ_PATH = os.path.join('requirements.txt')
 META_FILE = read(HERE, META_PATH)
 REQ_FILE = read(HERE, REQ_PATH)
