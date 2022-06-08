@@ -1,15 +1,16 @@
-ADB Connectors documentation
-=================================
+Testing a cookie
+================
 
 .. toctree::
    :maxdepth: 2
    :caption: Documentation contents:
 
    models
+   utils
 
 Important links
 ---------------
-- Source code repo: https://github.com/jumbo-supermarkten/testing_a_cookie
+- Source code repo: https://github.com/jmeidam/testing-a-cookie
 
 Indices and tables
 ------------------

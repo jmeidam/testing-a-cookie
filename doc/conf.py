@@ -18,8 +18,6 @@ from testing_a_cookie import __version__, __title__, __copyright__, __author__, 
 
 sys.path.insert(0, os.path.abspath('..'))
 
-HERE = os.path.abspath(os.path.dirname(__file__))
-
 # -- Project information -----------------------------------------------------
 
 project = __title__
