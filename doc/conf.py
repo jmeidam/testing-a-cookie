@@ -12,11 +12,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-import os
-import sys
+# import os
+# import sys
 from testing_a_cookie import __version__, __title__, __copyright__, __author__, __description__
 
-sys.path.insert(0, os.path.abspath('..'))
+# HERE = os.path.abspath(os.path.dirname(__file__))
+# sys.path.insert(0, os.path.join(HERE, '..'))
 
 # -- Project information -----------------------------------------------------
 
