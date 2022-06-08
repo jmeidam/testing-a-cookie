@@ -1,4 +1,4 @@
-def function_trin_model(something: str, something_else: dict) -> list:
+def function_train_model(something: str, something_else: dict) -> list:
     """testing doc
 
     :param something:

@@ -1,4 +1,4 @@
-__version__ = 'v0.1.0'
+__version__ = 'v0.2.0'
 
 __title__ = 'testing_a_cookie'
 __description__ = 'Need to run some tests with this particular cookie'
